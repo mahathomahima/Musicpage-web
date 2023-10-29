@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #03174c;
+}
+
+.music-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    font-family: "Serif";
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 70px;
+}
+
+.paragraph {
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+    padding-bottom: 50px;
+}
+
+.music-bg-image1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    margin: 25px;
+}
+
+.paragraph1 {
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.heading1 {
+    color: white;
+    text-align: center;
+    font-family: "Serif";
+    font-size: 25px;
+    font-weight: bold;
+    padding: 25px;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.button {
+    color: white;
+    background-color: #98a1bd;
+    border-radius: 20px;
+    margin: 100px;
+    margin-top: 0px;
+}
+
+.bg-image-container {
+    background-color: #03174c;
+
+}
+
+.music-image {
+    height: 30vh;
+    width: 30vh;
+}
+
+.music-detailed-heading {
+    color: white;
+    font-family: "Sans-Serif";
+    font-size: 40px;
+    padding: 20px;
+}
+
+.music-detailed-paragraph1 {
+    color: #98a1bd;
+    padding-left: 20px;
+}
+
+.music-detailed-paragraph2 {
+    color: #98a1bd;
+    padding-left: 20px;
+}
+
+.music-detailed-heading1 {
+    color: white;
+    font-family: "Sans-Serif";
+    font-size: 30px;
+    padding: 20px;
+}
+
+.music-image2 {
+    height: 100px;
+    width: 140px;
+    padding-left: 20px;
+}
+
+.head {
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.para {
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.head1 {
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.para1 {
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.button1 {
+    color: white;
+    background-color: #98a1bd;
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 100px;
+}
